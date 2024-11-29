@@ -39,9 +39,3 @@ Our machine learning approach for the capstone involves using transfer learning 
 **Our Dataset Link:**
 
 * [Skin Dataset With Augmentation](https://www.kaggle.com/datasets/akbariffianto/final-skin-disease)
-
-## Prerequisites
-1. [Jupyter Notebook](https://test-jupyter.readthedocs.io/en/latest/install.html) or [Google Colab](https://colab.research.google.com/)
-2. Kaggle API Token → [Generate](https://github.com/Kaggle/kaggle-api#api-credentials)
-3. [Python](https://www.python.org/downloads/) version 3.6 or above
-4. Latest version of Tensorflow 2.5 (or you can update again by rerunning .ipynb and updating models)
