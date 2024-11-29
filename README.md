@@ -3,10 +3,10 @@
 </h1>
 
 <div align="center">
-[![ML Contributors](https://img.shields.io/github/contributors/Bangkit-Capstone-Project/ML_Structuring_Model?color=red)](#mlcontributors)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Bangkit-Capstone-Project/ML_Structuring_Model)
-![GitHub last commit](https://img.shields.io/github/last-commit/Bangkit-Capstone-Project/ML_Structuring_Model)
-[![GitHub forks](https://img.shields.io/github/forks/Bangkit-Capstone-Project/ML_Structuring_Model)](https://github.com/Bangkit-Capstone-Project/ML_Structuring_Model)
+[![ML Contributors](https://img.shields.io/github/contributors/DermaScan-Apps/DermaScan-ML?color=red)](#mlcontributors)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DermaScan-Apps/DermaScan-ML)
+![GitHub last commit](https://img.shields.io/github/last-commit/DermaScan-Apps/DermaScan-ML)
+[![GitHub forks](https://img.shields.io/github/forks/DermaScan-Apps/DermaScan-ML)](https://github.com/DermaScan-Apps/DermaScan-ML)
 </div>
 
 # Team Profile
