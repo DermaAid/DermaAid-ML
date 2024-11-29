@@ -7,20 +7,17 @@
 ### Team ID		: C242-PS440 
 
 ### Team Member	: 
-(ML) M297B4KY0278 – Akbar Ariffianto – Universitas Pembangunan Nasional Veteran Yogyakarta - Active
-(ML) M297B4KY2559 – Mohamad Risqi Aditiya – Universitas Pembangunan Nasional Veteran Yogyakarta - Active 
-(ML) M302B4KY2233 – Kristian Suriyadharma – Universitas Pertamina - Active
-(CC) C282B4KY1152 – Dimaz Ardawan – Universitas Negeri Padang - Active
-(CC) C282B4KY4456 – Wahyu Isnan – Universitas Negeri Padang- Active
-(MD) A282B4KY1033 - Delano Yusuf Habibie – Universitas Negeri Padang - Active
-(MD) A282B4KY4523 – Yazid Aqil Assalam – Universitas Negeri Padang - Active
+- (ML) M297B4KY0278 – Akbar Ariffianto – Universitas Pembangunan Nasional Veteran Yogyakarta - Active
+- (ML) M297B4KY2559 – Mohamad Risqi Aditiya – Universitas Pembangunan Nasional Veteran Yogyakarta - Active 
+- (ML) M302B4KY2233 – Kristian Suriyadharma – Universitas Pertamina - Active
+- (CC) C282B4KY1152 – Dimaz Ardawan – Universitas Negeri Padang - Active
+- (CC) C282B4KY4456 – Wahyu Isnan – Universitas Negeri Padang- Active
+- (MD) A282B4KY1033 - Delano Yusuf Habibie – Universitas Negeri Padang - Active
+- (MD) A282B4KY4523 – Yazid Aqil Assalam – Universitas Negeri Padang - Active
 
 **Project Background:**
 
-As a tropical country, Indonesian citizens have a very high risk of skin diseases. Based on the World Health Organization (WHO) report, the prevalence of infectious skin diseases worldwide reaches around 300 million cases per year. In Indonesia itself, the prevalence of skin diseases reaches 4.60% - 12.95% and ranks third out of 10 most common diseases (Desmawati, 2020).
-Even though the numbers are high, access to specialist dermatologists is still limited, especially in remote areas where there is a lack of medical personnel with specialized skills. This slows down diagnosis and proper treatment for people with skin diseases, so their condition often worsens. In addition, there are concerns regarding violations of medical SOPs, especially in privacy examination situations where patients may feel uncomfortable or vulnerable to harassment if the examination is not accompanied by similar medical personnel.
-From all these challenges, the question arises as a solution, namely "How can we help reduce the rate of skin disease sufferers more quickly and safely?" to address this question. We will develop an AI-based  application that allows users to detect skin diseases through the photos they upload. The app is designed to provide early diagnosis and treatment recommendations, so patients can take further steps more quickly and privately.
-
+Indonesia, as a tropical country, faces a high prevalence of skin diseases, with rates reaching 4.60%–12.95%, ranking third among the nation's most common diseases (Desmawati, 2020). Despite the urgency, access to dermatologists remains limited, especially in remote areas, delaying diagnosis and treatment. Privacy concerns during examinations further complicate the situation. To address these challenges, we propose an AI-based application enabling users to detect skin diseases through uploaded photos. This app provides early diagnosis and treatment recommendations, ensuring quicker, safer, and more private healthcare access.
 
 **Machine Learning:** 
 
