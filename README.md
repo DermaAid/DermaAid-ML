@@ -38,8 +38,7 @@ Our machine learning approach for the capstone involves using transfer learning 
 
 **Our Dataset Link:**
 
-* Dataset
-  * [Skin Dataset With Augmentation](https://www.kaggle.com/datasets/akbariffianto/final-skin-disease)
+* [Skin Dataset With Augmentation](https://www.kaggle.com/datasets/akbariffianto/final-skin-disease)
 
 ## Prerequisites
 1. [Jupyter Notebook](https://test-jupyter.readthedocs.io/en/latest/install.html) or [Google Colab](https://colab.research.google.com/)
