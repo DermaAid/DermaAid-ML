@@ -2,13 +2,6 @@
   DermaScan: ML Repository
 </h1>
 
-<div align="center">
-[![ML Contributors](https://img.shields.io/github/contributors/DermaScan-Apps/DermaScan-ML?color=red)](#mlcontributors)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DermaScan-Apps/DermaScan-ML)
-![GitHub last commit](https://img.shields.io/github/last-commit/DermaScan-Apps/DermaScan-ML)
-[![GitHub forks](https://img.shields.io/github/forks/DermaScan-Apps/DermaScan-ML)](https://github.com/DermaScan-Apps/DermaScan-ML)
-</div>
-
 # Team Profile
 
 ### Team ID		: C242-PS440 
