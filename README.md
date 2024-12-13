@@ -1,5 +1,5 @@
 <h1 align="center">
-  DermaScan: ML Repository
+  Derma.Aid: ML Repository
 </h1>
 
 # Team Profile
@@ -39,8 +39,6 @@ Our machine learning approach for the capstone involves using transfer learning 
 **Our Dataset Link:**
 
 * [Skin Dataset With Augmentation](https://www.kaggle.com/datasets/akbariffianto/final-skin-disease)
-
-# DermaScan Project
 
 ## Overview
 DermaScan is a machine learning project designed to analyze dermatological data and assist in diagnosing skin conditions. The project leverages deep learning techniques to create a model that can classify images of skin lesions or related data. It aims to provide an efficient and accurate tool for dermatological analysis.
