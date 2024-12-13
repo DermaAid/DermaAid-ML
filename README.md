@@ -70,8 +70,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dermascan.git
-   cd dermascan
+   git clone https://github.com/DermaAid/DermaAid-ML.git
    ```
 2. Install the required Python packages:
    ```bash
